@@ -260,4 +260,10 @@ html, body{
   .right-content{
     display: none;
   }
+      footer {
+    font-size: 1vw;    
+}
+.social a {
+  font-size: 2.8vw;
+}
 }
